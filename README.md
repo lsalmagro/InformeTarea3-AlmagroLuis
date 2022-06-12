@@ -25,7 +25,6 @@ en paralelo
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-Unidad 5
 ![image](https://user-images.githubusercontent.com/105899463/173258148-55216ddb-ae7a-4507-a118-871a4d80fb96.png)
 ![image](https://user-images.githubusercontent.com/105899463/173258156-26e65dff-f692-4a73-b994-21215a8fab15.png)
 ![image](https://user-images.githubusercontent.com/105899463/173258168-6f110751-fa3f-4459-b8d2-d9791ce63c6a.png)
@@ -37,7 +36,6 @@ Unidad 5
 ![image](https://user-images.githubusercontent.com/105899463/173258229-d051b34b-0393-4a8f-a00b-a5636ff77349.png)
 ![image](https://user-images.githubusercontent.com/105899463/173258245-335f36b5-a29f-424d-a83f-b0473f8c8e38.png)
 
-Unidad 6
 ![image](https://user-images.githubusercontent.com/105899463/173258258-edbf55b8-d493-4f55-869c-8981f974056d.png)
 ![image](https://user-images.githubusercontent.com/105899463/173258288-2568afa9-8aaf-4060-b744-336f9737484b.png)
 ![image](https://user-images.githubusercontent.com/105899463/173258301-7cb29236-3b85-4cda-826a-2c3075e88ffd.png)
