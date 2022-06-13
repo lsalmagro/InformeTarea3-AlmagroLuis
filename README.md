@@ -1,27 +1,17 @@
 # InformeTarea3-AlmagroLuis
 
 1. OBJETIVOS
+
 - Identificar circuitos resistivos en serie y en paralelo.
-- Describir una aproximación básica a la localización de fallas.
-- Definir los términos energía y potencia.
-- Cálcular la potencia en un circuito.
+- Aplicar las leyes de Ohm y leyes de Kirchoff en cualquier tipo de circuitos.
+- Determinar la corriente, voltaje, resistencia y potencia en base a los requirimientos de cada ejericicio.
 
-
-◆ Determinar el voltaje a través de cada rama en
-paralelo
-◆ Aplicar la ley de la corriente de Kirchhoff
-◆ Determinar la resistencia total en paralelo
-◆ Aplicar la ley de Ohm en un circuito en paralelo
-◆ Determinar el efecto total de una fuente de
-corriente en paralelo
-◆ Utilizar un circuito en paralelo como divisor de
-corriente
-◆ Determinar la potencia en un circuito en paralelo
-◆ Describir algunas aplicaciones básicas de circuitos
-en paralelo
-◆ Localizar fallas en circuitos en paralelo
 
 2. MARCO TEÓRICO (RESUMEN)
+
+![image](https://user-images.githubusercontent.com/105899463/173271575-d05510bc-0c64-4d87-9317-059f9d9a2215.png)
+![image](https://user-images.githubusercontent.com/105899463/173273398-a77eb4e3-7026-4872-851b-57f7f5281ae7.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -47,29 +37,28 @@ en paralelo
 ![image](https://user-images.githubusercontent.com/105899463/173258390-41c69552-5f40-405f-ac1c-5f3d97655c2b.png)
 
 
-
 4.VÍDEO
 
 Capitulo 5 - Circuitos en Serie
 
-https://youtu.be/GGB_ZYet5Ao
+https://youtu.be/JIsl7McF9mA
 
-https://youtu.be/eXPaKc_P8aw
+Capitulo 6 - Circuitos en paralelo
 
-Capitulo 4 - Circuitos en paralelo
+https://youtu.be/_rce6_FDrWo
+
 
 5.CONCLUSIONES
-- Se logró obtener los conocimientos necesarios para calcular la corriente, voltaje y resistencia de un circuito
-- Se puede definir  la respectiva aproximación básica a la localización de fallas.
-- En términos de energía y potencia, se pudo calcular las respectivas magnitudes.
-- Se aprendió a cálcular la potencia en un circuito.
+- Se logró obtener los conocimientos necesarios para calcular la corriente, voltaje, resistencia y portencia de un circuito en serie o paralelo.
+- Se evidenció la ayuda de las leyes de ohm y kirchhoff.
+- Se logro verificar las distintas medidas en los componentes en los circuitos.
+
 
 6. RECOMENDACIONES
 - Me permito recomendar muy respetuosamente y comedidamente se tome en consideración que ciertos ejercicios requieren el codigo de colores, pero el libro se encuentra en blanco y negro. Solicito se facilite el texto a color para identificar de mejor manera el valor de las resistencias.
 
 
 6.BIBLIOGRAFIA
-
 Floyd, T. L. (2007). Principios de circuitos eléctricos. México: Pearson Educación.
 
 
